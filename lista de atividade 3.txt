@@ -1,0 +1,18 @@
+function numeros(){
+for (let i = 101; i <= 110; i++) {
+  console.log(i)
+  }
+}
+numeros()
+atividade 2
+    function recebe(n1,n2){
+        numero = n1
+        numeros = n2
+        if(numero >= 0){
+            return "Valor Inválido!"
+        }else{
+            return n1 % n2          
+        }
+        
+    }
+    console.log(recebe(0,5))

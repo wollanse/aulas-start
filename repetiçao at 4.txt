@@ -1,0 +1,11 @@
+lista de exercicios 2
+function multi(){
+  for(let i = 0; i <=100; i++){
+    if(i % 10 === 0){
+          console.log(i + "multiplos de 10")
+    }else{
+          console.log(i)
+    }
+  }
+}
+multi()

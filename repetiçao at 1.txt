@@ -1,0 +1,15 @@
+atividade 1 de estrutura de repetiçao (wilhe e dowilhe e for)
+atividade 1/2
+function numeros(){
+for (let i = 0; i <= 10; i++) {
+  console.log(i)
+  }
+}
+numeros()
+atividade 2/2
+function num(){
+for (let i = 50; i <= 70; i++) {
+  console.log(i)
+  }
+}
+num()
